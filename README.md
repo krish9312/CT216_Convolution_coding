@@ -32,9 +32,6 @@ The report covers:
 - **Higher constraint lengths** improve error correction but increase complexity.
 - **BPSK over AWGN** serves as an effective base model for simulating digital communication reliability.
 
-## 📂 Files Included
-
-- `G9_report_CT216.pdf`: Final project report (this document).
 
 ## 👥 Team Members
 
